@@ -7,7 +7,6 @@ _Here's a paragraph describing what the Component_
     <img src="https://img.shields.io/badge/version-1.02-blue" />
 </p>
 
-
 ### Pre-requirements 📋
 
 _Inputs, libraries or other components are required to install the component. Example:_
@@ -36,9 +35,9 @@ _It ends with an example of how to obtain system components or how to use them_
 
 ## Final results 📦
 
-![Initial](https://imgur.com/wGfISsA)
+![Initial](https://imgur.com/wGfISsA.jpg)
 
-![Changing](https://imgur.com/uhiHOJU)
+![Changing](https://imgur.com/uhiHOJU.jpg)
 
 ## Versions 📌
 
@@ -52,3 +51,8 @@ instead people focus on solving the _~~problem~~_ _challenge_ e.g. by writing so
 * **Fulanito Detal** - *Version 1.01* - [fulanitodetal](japereira@futurshealth.com)
 * **Jan Pereira** - *Initial Work* - [email](japereira@futurshealth.com)
 
+## Extra -  ListColor badge
+
+https://img.shields.io/badge/coverage-<MESSAGE>%25-<COLOR>
+
+ListColor: brightgreen - green - yellowgreen - yellow - orange - red - lightgrey
