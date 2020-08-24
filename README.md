@@ -1,6 +1,6 @@
 # Component Name
 
-_Acá va un párrafo que describa lo que es el Compomente_
+_Here's a paragraph describing what the Component_
 
 <p align="center">
     <img src="https://img.shields.io/badge/coverage-0%25-lightgrey" />
@@ -10,7 +10,7 @@ _Acá va un párrafo que describa lo que es el Compomente_
 
 ### Pre-requirements 📋
 
-_Que inputs, librerias u otros componentes requieres para instalar el componente. Ejemplo:_
+_Inputs, libraries or other components are required to install the component. Example:_
 
 ```
 npm install angular-cli -g
@@ -18,27 +18,27 @@ npm install angular-cli -g
 
 ### Implementation 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_A series of step-by-step examples that tells you what to run to get a development environment running_
 
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
+_Tell how that step will be_
 
 ```
-hasta finalizar
+<at-calendar-master></at-calendar-master>
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+_And repeat_
+
+```
+<at-calendar-master [button]="yes"></at-calendar-master>
+```
+
+_It ends with an example of how to obtain system components or how to use them_
 
 ## Final results 📦
 
-//imgur.com/a/sL2Zpw0
+![Initial](https://imgur.com/wGfISsA)
 
-![Inicial](https://imgur.com/a/sL2Zpw0)
+![Changing](https://imgur.com/uhiHOJU)
 
 ## Versions 📌
 
@@ -47,25 +47,8 @@ instead people focus on solving the _~~problem~~_ _challenge_ e.g. by writing so
 + **V.1.00** - _most_ people don't _think_ of _documentation_ as the "_priority_" for their (_technical_) project,
 instead people focus on solving the _~~problem~~_ _challenge_ e.g. by writing some code,
 
-## Autores ✒️
+## Authors ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
+* **Fulanito Detal** - *Version 1.01* - [fulanitodetal](japereira@futurshealth.com)
 * **Jan Pereira** - *Initial Work* - [email](japereira@futurshealth.com)
-* **Fulanito Detal** - *Version* - [fulanitodetal](#fulanito-de-tal)
 
-
-
-
-
-- code coverage percentage: ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
-
-
-
-
-
-
-
-
-
-[coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
