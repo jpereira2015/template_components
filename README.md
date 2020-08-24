@@ -53,6 +53,8 @@ instead people focus on solving the _~~problem~~_ _challenge_ e.g. by writing so
 
 ## Extra -  ListColor badge
 
-https://img.shields.io/badge/coverage-<MESSAGE>%25-<COLOR>
+```
+https://img.shields.io/badge/coverage-<NUMBER>%25-<COLOR>
+```
 
 ListColor: brightgreen - green - yellowgreen - yellow - orange - red - lightgrey
